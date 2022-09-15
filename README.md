@@ -1,6 +1,6 @@
 ### Hola, mi nombre es Andrés Torres 👋
 
-- Mi stack como developer:
+-- Mi stack como developer:
 ### JS | HTML | CSS | React.js | Redux.js | Node.js | Express | SQL | PostgreSQL
 
 - ¿Quién soy?
