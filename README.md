@@ -1,7 +1,7 @@
 ## Hola, mi nombre es Andrés Torres 👋
 
  ### Mi stack como developer:
- ###JS | HTML | CSS | React.js | Redux.js | Node.js | Express | SQL | PostgreSQL
+ JS | HTML | CSS | React.js | Redux.js | Node.js | Express | SQL | PostgreSQL
 
 ### - ¿Quién soy?
 Hola, mi nombre es Andrés Torres! Soy musico compositor, estudié piano en Conservatorio durante más de 5 años, también soy cantante y guitarrista autodidacta. Tengo estudios en Psicología, actualmente curso la carrera de Medicina, he hecho cursos sobre mezcla y producción de audio, y me profesionalicé como masajista relajante, a lo cual me dediqué durante casi tres años. Además, disfruto muchísimo del deporte y el arte, son mis mayores cables a tierra, así como también la edición de video e imagen.
